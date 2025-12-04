@@ -65,3 +65,10 @@ Adapted from [TheVictorianOnYT](https://www.reddit.com/r/CKTinder/comments/1n2lr
 [RAW DNA](/Ressources/PernelleDNA.txt)                 
 [Ruler Designer](/Ressources/PernelleRD.txt)
 
+## Emma
+![Emma Portrait](/Ressources/Emma.png?)     
+
+Adapted from [vnth93](https://www.reddit.com/r/CKTinder/comments/1paorpr/emma_watson_agot/)
+             
+[RAW DNA](/Ressources/EmmaDNA.txt)                 
+[Ruler Designer](/Ressources/EmmaRD.txt)
