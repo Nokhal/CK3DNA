@@ -50,3 +50,18 @@ Adapted from [vnth93](https://www.reddit.com/r/CKTinder/comments/1pa56xi/anya_ta
              
 [RAW DNA](/Ressources/MathildeDNA.txt)                 
 [Ruler Designer](/Ressources/MathildeRD.txt)
+
+## Mélisende
+![Mélisende Portrait](/Ressources/Mélisende.png?)
+             
+[RAW DNA](/Ressources/MélisendeDNA.txt)                 
+[Ruler Designer](/Ressources/MélisendeRD.txt)    
+            
+## Pernelle
+![Pernelle Portrait](/Ressources/Pernelle.png?)     
+
+Adapted from [TheVictorianOnYT](https://www.reddit.com/r/CKTinder/comments/1n2lr6q/get_in_loser_were_forming_the_duchy_of_prussia/)
+             
+[RAW DNA](/Ressources/PernelleDNA.txt)                 
+[Ruler Designer](/Ressources/PernelleRD.txt)
+
