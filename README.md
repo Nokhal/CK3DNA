@@ -37,7 +37,9 @@ Mother of the twins
 [Ruler Designer](/Ressources/EuphrosineRD.txt)
 
 ## Ildégarde
-![Ildégarde Portrait](/Ressources/Ildégarde.png?) 
+![Ildégarde Portrait](/Ressources/Ildégarde.png?)     
+
+Adapted from [vnth93](https://www.reddit.com/r/CKTinder/comments/1pa56xi/anya_taylor_joy_agot/)
              
 [RAW DNA](/Ressources/IldégardedDNA.txt)                 
 [Ruler Designer](/Ressources/IldégardeRD.txt)
