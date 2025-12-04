@@ -1,5 +1,8 @@
 # CK3DNA
 
+All of the codes are for Vanilla CK3 with all DLC installed patch 1.18. The following mods are also used, but outside of missing hairstyle/clothes/slightly different end look, it should not result in incompatible DNA.           
+[Fair Ladies](https://steamcommunity.com/sharedfiles/filedetails/?id=2245415465) and [Community Flavor Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2220098919)
+  
 ## Guillaumette
 ![Guillaumette Portrait](/Ressources/Guillaumette.png?)
 
