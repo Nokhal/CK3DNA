@@ -41,7 +41,7 @@ Mother of the twins
 
 Adapted from [vnth93](https://www.reddit.com/r/CKTinder/comments/1pa56xi/anya_taylor_joy_agot/)
              
-[RAW DNA](/Ressources/IldégardedDNA.txt)                 
+[RAW DNA](/Ressources/IldégardeDNA.txt)                 
 [Ruler Designer](/Ressources/IldégardeRD.txt)
 
 
@@ -72,3 +72,9 @@ Adapted from [vnth93](https://www.reddit.com/r/CKTinder/comments/1paorpr/emma_wa
              
 [RAW DNA](/Ressources/EmmaDNA.txt)                 
 [Ruler Designer](/Ressources/EmmaRD.txt)
+
+## Abigail
+![Abigail Portrait](/Ressources/Abigail.png?)     
+             
+[RAW DNA](/Ressources/AbigailDNA.txt)                 
+[Ruler Designer](/Ressources/AbigailRD.txt)
