@@ -41,7 +41,7 @@ Mother of the twins
 
 Adapted from [vnth93](https://www.reddit.com/r/CKTinder/comments/1pa56xi/anya_taylor_joy_agot/)
              
-[RAW DNA](/Ressources/IldégardedDNA.txt)                 
+[RAW DNA](/Ressources/IldégardeDNA.txt)                 
 [Ruler Designer](/Ressources/IldégardeRD.txt)
 
 
