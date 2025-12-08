@@ -78,3 +78,16 @@ Adapted from [vnth93](https://www.reddit.com/r/CKTinder/comments/1paorpr/emma_wa
              
 [RAW DNA](/Ressources/AbigailDNA.txt)                 
 [Ruler Designer](/Ressources/AbigailRD.txt)
+
+## Octavia
+![Octavia Portrait](/Ressources/Octavia.png?)     
+             
+[RAW DNA](/Ressources/OctaviaDNA.txt)                 
+[Ruler Designer](/Ressources/OctaviaRD.txt)
+
+
+## Xiaoyao
+![Xiaoyao Portrait](/Ressources/Xiaoyao.png?)     
+             
+[RAW DNA](/Ressources/XiaoyaoDNA.txt)                 
+[Ruler Designer](/Ressources/XiaoyaoRD.txt)
